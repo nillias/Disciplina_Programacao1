@@ -93,5 +93,3 @@ triangle(136,477, 151,516, 122,516);
 
 fill(214,65,59);
 ellipse(120,140,100,100);
-
-//Nillia Sousa da Silva - 499957
