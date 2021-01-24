@@ -10,4 +10,4 @@ A seguinte ferramenta foi usada na disciplina:
 
 <p align="center">Trabalho do Módulo Introdução</p>
 
-![](https://user-images.githubusercontent.com/63982257/105414848-cb9c8300-5c16-11eb-80af-a6033f298654.png)
+![Trabalho do Módulo de Introdução](https://user-images.githubusercontent.com/63982257/105414848-cb9c8300-5c16-11eb-80af-a6033f298654.png?w"512")
