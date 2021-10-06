@@ -13,8 +13,3 @@ A seguinte ferramenta foi usada na disciplina:
 
 
 
-<h4>Trabalho do Módulo Introdução</h4>
-<br>
-<img src="https://user-images.githubusercontent.com/63982257/105414848-cb9c8300-5c16-11eb-80af-a6033f298654.png" height="700" width"500">
-<br>
-
